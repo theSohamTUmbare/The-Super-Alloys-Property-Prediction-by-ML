@@ -110,7 +110,7 @@ IIIT Raichur
 
 ---
 
-⭐ _If you find this work interesting, consider giving it a star on Kaggle and GitHub!_
+⭐ _If you find this work interesting, consider giving it a star on Kaggle & GitHub!_
 
 ---
 🧑‍💻 Happy Experimenting! 🔬
