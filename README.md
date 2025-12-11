@@ -19,6 +19,7 @@ Regression Tree Best Parameters -
  'min_samples_split': 2}
 ```
 To explore the hyper parameter tuning and more experiments with regression tree check out the `models\Regression_Trees_on_SuperAlloy_Dataset.ipynb`
+[Kaggle_Notebook](https://www.kaggle.com/code/sohamumbare/regression-trees-on-superalloy-dataset)
 
 ## 📋 Overview
 
