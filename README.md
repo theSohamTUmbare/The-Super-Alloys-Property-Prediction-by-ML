@@ -7,6 +7,18 @@ This repository contains a Jupyter Notebook that demonstrates an end-to-end mach
 
 To develop and benchmark machine learning models capable of accurately predicting key mechanical properties—specifically melting point and tensile strength—from the chemical composition of high-temperature superalloys, with the ultimate goal of accelerating alloy design cycles, reducing experimental costs, and enabling data-driven discovery of novel compositions for aerospace and defense applications.
 
+## Update 
+Recently I tried Regression Tree Algorithm on melting point prediction objective and I got **R2 score of 0.984** on these parameters:
+``` 
+Regression Tree Best Parameters - 
+{'criterion': 'squared_error',
+ 'max_depth': 30,
+ 'max_features': 1.0,
+ 'max_leaf_nodes': None,
+ 'min_samples_leaf': 1,
+ 'min_samples_split': 2}
+```
+To explore the hyper parameter tuning and more experiments with regression tree check out the `models\Regression_Trees_on_SuperAlloy_Dataset.ipynb`
 
 ## 📋 Overview
 
